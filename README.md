@@ -11,7 +11,7 @@ git clone https://github.com/lsander22/kvm-enviroment.git
 
 ```bash
 cd kvm-enviroment/
-cp *-sh /usr/local/bin
+cp *.sh /usr/local/bin
 sudo chmod u+x /usr/local/bin
 ```
 
